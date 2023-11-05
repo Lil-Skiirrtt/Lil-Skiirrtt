@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Lil-Skiirrtt&color=blueviolet	)
 <!--
 **Lil-Skiirrtt/Lil-Skiirrtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
