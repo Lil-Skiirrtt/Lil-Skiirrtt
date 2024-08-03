@@ -1,6 +1,7 @@
+![](https://komarev.com/ghpvc/?username=Lil-Skiirrtt&color=blueviolet)
+
 # Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Lil-Skiirrtt&color=blueviolet)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-Skiirrtt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 ### 😉: Programming Joke : 
