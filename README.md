@@ -1,10 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=Lil-Skiirrtt&color=blueviolet)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-Skiirrtt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 ### 😉: Programming Joke : 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+- 🔭 I’m currently working on SR4CRAFT
+- 😄 Pronouns: ANY
+- ⚡ Fun fact: ...
 <!--
 **Lil-Skiirrtt/Lil-Skiirrtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
