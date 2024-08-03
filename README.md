@@ -8,6 +8,19 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 🔭 I’m currently working on SR4CRAFT
 - 😄 Pronouns: ANY
 - ⚡ Fun fact: ...
