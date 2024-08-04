@@ -21,9 +21,10 @@
 
 
 
-- 🔭 I’m currently working on SR4CRAFT
+- 🔭 I’m currently working on SC4RCRAFT
 - 😄 Pronouns: ANY
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: AzeY want me dead
+- 🌱 I’m currently learning C++
 <!--
 **Lil-Skiirrtt/Lil-Skiirrtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
