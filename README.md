@@ -21,7 +21,7 @@
 
 
 
-- 🔭 I’m currently working on SC4RCRAFT and SC4RLXNE CFW
+- 🔭 I’m currently working on ...
 - 😄 Pronouns: ANY
 - ⚡ Fun fact: AzeY want me dead
 - 🌱 I’m currently learning C++, C, HTML CSS, Java-Script
