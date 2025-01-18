@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on ...
 - 😄 Pronouns: ANY
 - ⚡ Fun fact: AzeY want me dead
-- 🌱 I’m currently learning C++, C, HTML CSS, Java-Script
+- 🌱 I’m currently learning C++, C, HTML CSS, Java-Script, Arduino
 <!--
 **Lil-Skiirrtt/Lil-Skiirrtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
